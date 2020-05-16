@@ -1,0 +1,9 @@
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\bin\Debug\AccessCheckDemo.exe
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\bin\Debug\AccessCheckDemo.pdb
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\bin\Debug\AccessCheckDemo.xml
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\obj\x86\Debug\AccessCheckDemo.vbprojResolveAssemblyReference.cache
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\obj\x86\Debug\AccessCheckDemo.Resources.resources
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\obj\x86\Debug\AccessCheckDemo.vbproj.GenerateResource.Cache
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\obj\x86\Debug\AccessCheckDemo.exe
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\obj\x86\Debug\AccessCheckDemo.xml
+g:\redirected folders\my documents\visual studio 2008\Projects\AccessCheckDemo\AccessCheckDemo\obj\x86\Debug\AccessCheckDemo.pdb
